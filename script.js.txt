@@ -1,0 +1,4 @@
+// Simple JavaScript for future enhancements
+document.addEventListener("DOMContentLoaded", function() {
+    // Add any JavaScript functionality here if needed
+});

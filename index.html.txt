@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medifood - Zdravá výživa a viac</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Medifood</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Domov</a></li>
+                    <li><a href="#products">Produkty</a></li>
+                    <li><a href="#about">O nás</a></li>
+                    <li><a href="#contact">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="container">
+            <h2>Váš partner pre zdravý životný štýl</h2>
+            <p>Špecializovaná strava pre alergikov, intolerancie a viac.</p>
+        </div>
+    </section>
+
+    <section id="products" class="products">
+        <div class="container">
+            <h2>Naše Produkty</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="images/salt_bowl.jpg" alt="Solná misa">
+                    <h3>Solná misa</h3>
+                    <p>Prírodná soľ pre vaše zdravie.</p>
+                </div>
+                <div class="product">
+                    <img src="images/coffee_to_go.jpg" alt="Coffee to go">
+                    <h3>Coffee to go</h3>
+                    <p>Vychutnajte si našu lahodnú kávu na cestu.</p>
+                </div>
+                <div class="product">
+                    <img src="images/gluten_free.jpg" alt="Bezlepkové výrobky">
+                    <h3>Bezlepkové výrobky</h3>
+                    <p>Široká ponuka bezlepkových produktov.</p>
+                </div>
+                <div class="product">
+                    <img src="images/vegan.jpg" alt="Vegan výrobky">
+                    <h3>Vegan výrobky</h3>
+                    <p>Zdravé a chutné vegan produkty.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h2>O nás</h2>
+            <p>Medifood je špecializovaná predajňa pre ľudí so zdravotnými ťažkosťami. Ponúkame produkty vysokej kvality zo západnej Európy s dôrazom na zdravie a kvalitu.</p>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Kontakt</h2>
+            <p>Pre viac informácií nás kontaktujte na <a href="mailto:info@medifood.sk">info@medifood.sk</a> alebo volajte na 0950 470 301.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Medifood. Všetky práva vyhradené.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
