@@ -43,14 +43,14 @@
                     <p>Vychutnajte si našu lahodnú kávu na cestu.</p>
                 </div>
                 <div class="product">
-                    <img src="images/gluten_free.jpg" alt="Bezlepkové výrobky">
-                    <h3>Bezlepkové výrobky</h3>
-                    <p>Široká ponuka bezlepkových produktov.</p>
+                    <img src="images/foto_predajne.jpg" alt="Predajňa">
+                    <h3>Naša predajňa</h3>
+                    <p>Široká ponuka zdravých a kvalitných produktov.</p>
                 </div>
                 <div class="product">
-                    <img src="images/vegan.jpg" alt="Vegan výrobky">
-                    <h3>Vegan výrobky</h3>
-                    <p>Zdravé a chutné vegan produkty.</p>
+                    <img src="images/foto_predajne_ext.png" alt="Exteriér predajne">
+                    <h3>Exteriér predajne</h3>
+                    <p>Navštívte nás a presvedčte sa sami.</p>
                 </div>
             </div>
         </div>

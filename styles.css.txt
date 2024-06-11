@@ -34,7 +34,7 @@ nav ul li a {
 }
 
 .hero {
-    background-image: url('images/hero_background.jpg');
+    background-image: url('images/foto_predajne_ext.png');
     background-size: cover;
     color: white;
     padding: 100px 0;
